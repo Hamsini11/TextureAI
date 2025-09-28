@@ -96,8 +96,8 @@ CONDUCT.md                    # Code of conduct
 ## Authors & Contributions
 Meghashree n @Lucifer970901  - data handling,instance segmentation and gradient mapping,
 Niharika chavan Tatoji Rao @NiharikaChavan - Stable diffusion, backendAPI and integration
-Hamsini Achyuta Kumar @Hamisini11 - texture synthesis and integration
-shreya r Kadole - UI/UX. 
+Hamsini Achyuta Kumar @Hamsini11 - texture synthesis and integration
+Shreya R Kadole - UI/UX. 
 
 
 ---
