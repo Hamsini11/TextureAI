@@ -94,15 +94,18 @@ CONDUCT.md                    # Code of conduct
 ---
 
 ## Authors & Contributions
-Meghashree n @Lucifer970901  - data handling,instance segmentation and gradient mapping,
-Niharika chavan Tatoji Rao @NiharikaChavan - Stable diffusion, backendAPI and integration
-Hamsini Achyuta Kumar @Hamsini11 - texture synthesis and integration
-Shreya R Kadole - UI/UX. 
+Meghashree N @Lucifer970901  - Developed YOLOv9-based instance segmentation pipeline with gradient mapping for precise furniture component identification and binary mask extraction.
+Niharika Chavan Tatoji Rao @NiharikaChavan - Built Stable Diffusion texture generation system with PostgreSQL prompt storage and API integration for material-specific texture creation.
+Hamsini Achyutha Kumar @Hamsini11 - Created coordinate-based texture mapping system with Stable Diffusion integration, and delivered comprehensive market analysis and business strategy presentation.
+Shreya R Kadole - Designed responsive React/Tailwind UI with smooth animations and conducted market research on Meta's Segment Anything Model architecture.
 
 
 ---
 ## Mentor
-Matthew J Briggs 
+Matthew J Briggs, MFA
+Assistant Professor of Practice, Health Sciences Design 
+University of Arizona Health Sciences
+Assistant Professor of Practice, Engineering Academic Affairs  
 
 
 
